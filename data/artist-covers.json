@@ -1,0 +1,16 @@
+{
+    "artists": [
+      {
+        "name": "coldplay",
+        "coverFile": "coldplay.webp"
+      },
+      {
+        "name": "adele",
+        "coverFile": "adele.webp"
+      },
+      {
+        "name": "rolling stones",
+        "coverFile": "rolling-stones.webp"
+      }
+    ]
+  }
