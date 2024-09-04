@@ -23,6 +23,9 @@
 # cover jpg images in public/covers folder (if any) app supports webp format only
 /public/covers/*.jpg
 
+# prevent sharing images with public
+/public/covers/*.webp
+
 # debug
 npm-debug.log*
 yarn-debug.log*

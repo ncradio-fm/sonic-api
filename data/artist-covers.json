@@ -1,16 +1,1476 @@
 {
-    "artists": [
-      {
-        "name": "coldplay",
-        "coverFile": "coldplay.webp"
-      },
-      {
-        "name": "adele",
-        "coverFile": "adele.webp"
-      },
-      {
-        "name": "rolling stones",
-        "coverFile": "rolling-stones.webp"
-      }
-    ]
-  }
+  "artists": [
+    {
+      "name": "1975",
+      "coverFile": "1975.webp"
+    },
+    {
+      "name": "30 seconds to mars",
+      "coverFile": "30-seconds-to-mars.webp"
+    },
+    {
+      "name": "4 non blondes",
+      "coverFile": "4-non-blondes.webp"
+    },
+    {
+      "name": "abc",
+      "coverFile": "abc.webp"
+    },
+    {
+      "name": "adele",
+      "coverFile": "adele.webp"
+    },
+    {
+      "name": "aerosmith",
+      "coverFile": "aerosmith.webp"
+    },
+    {
+      "name": "air traffic",
+      "coverFile": "air-traffic.webp"
+    },
+    {
+      "name": "air",
+      "coverFile": "air.webp"
+    },
+    {
+      "name": "alabama shakes",
+      "coverFile": "alabama-shakes.webp"
+    },
+    {
+      "name": "alex turner",
+      "coverFile": "alex-turner.webp"
+    },
+    {
+      "name": "all american rejects",
+      "coverFile": "all-american-rejects.webp"
+    },
+    {
+      "name": "alphaville",
+      "coverFile": "alphaville.webp"
+    },
+    {
+      "name": "amy macdonald",
+      "coverFile": "amy-macdonald.webp"
+    },
+    {
+      "name": "amy winehouse",
+      "coverFile": "amy-winehouse.webp"
+    },
+    {
+      "name": "animals",
+      "coverFile": "animals.webp"
+    },
+    {
+      "name": "apartment",
+      "coverFile": "apartment.webp"
+    },
+    {
+      "name": "arcade fire",
+      "coverFile": "arcade-fire.webp"
+    },
+    {
+      "name": "arctic monkeys",
+      "coverFile": "arctic-monkeys.webp"
+    },
+    {
+      "name": "athlete",
+      "coverFile": "athlete.webp"
+    },
+    {
+      "name": "audioslave",
+      "coverFile": "audioslave.webp"
+    },
+    {
+      "name": "automatic",
+      "coverFile": "automatic.webp"
+    },
+    {
+      "name": "band",
+      "coverFile": "band.webp"
+    },
+    {
+      "name": "barry white",
+      "coverFile": "barry-white.webp"
+    },
+    {
+      "name": "bat for lashes",
+      "coverFile": "bat-for-lashes.webp"
+    },
+    {
+      "name": "beach boys",
+      "coverFile": "beach-boys.webp"
+    },
+    {
+      "name": "beaches",
+      "coverFile": "beaches.webp"
+    },
+    {
+      "name": "beady eye",
+      "coverFile": "beady-eye.webp"
+    },
+    {
+      "name": "bear's den",
+      "coverFile": "bear's-den.webp"
+    },
+    {
+      "name": "beastie boys",
+      "coverFile": "beastie-boys.webp"
+    },
+    {
+      "name": "beatles",
+      "coverFile": "beatles.webp"
+    },
+    {
+      "name": "belinda carlisle",
+      "coverFile": "belinda-carlisle.webp"
+    },
+    {
+      "name": "ben's brother",
+      "coverFile": "ben's-brother.webp"
+    },
+    {
+      "name": "ben howard",
+      "coverFile": "ben-howard.webp"
+    },
+    {
+      "name": "biffy clyro",
+      "coverFile": "biffy-clyro.webp"
+    },
+    {
+      "name": "billy idol",
+      "coverFile": "billy-idol.webp"
+    },
+    {
+      "name": "billy joel",
+      "coverFile": "billy-joel.webp"
+    },
+    {
+      "name": "black keys",
+      "coverFile": "black-keys.webp"
+    },
+    {
+      "name": "black sabbath",
+      "coverFile": "black-sabbath.webp"
+    },
+    {
+      "name": "bleachers",
+      "coverFile": "bleachers.webp"
+    },
+    {
+      "name": "blink 182",
+      "coverFile": "blink-182.webp"
+    },
+    {
+      "name": "bloc party",
+      "coverFile": "bloc-party.webp"
+    },
+    {
+      "name": "blondie",
+      "coverFile": "blondie.webp"
+    },
+    {
+      "name": "blossoms",
+      "coverFile": "blossoms.webp"
+    },
+    {
+      "name": "blur",
+      "coverFile": "blur.webp"
+    },
+    {
+      "name": "bob dylan",
+      "coverFile": "bob-dylan.webp"
+    },
+    {
+      "name": "bon jovi",
+      "coverFile": "bon-jovi.webp"
+    },
+    {
+      "name": "boston",
+      "coverFile": "boston.webp"
+    },
+    {
+      "name": "boy kill boy",
+      "coverFile": "boy-kill-boy.webp"
+    },
+    {
+      "name": "brandon flowers",
+      "coverFile": "brandon-flowers.webp"
+    },
+    {
+      "name": "brian may",
+      "coverFile": "brian-may.webp"
+    },
+    {
+      "name": "bruce hornsby & range",
+      "coverFile": "bruce-hornsby-&-range.webp"
+    },
+    {
+      "name": "bruce springsteen",
+      "coverFile": "bruce-springsteen.webp"
+    },
+    {
+      "name": "bryan adams & tina turner",
+      "coverFile": "bryan-adams-&-tina-turner.webp"
+    },
+    {
+      "name": "bryan adams",
+      "coverFile": "bryan-adams.webp"
+    },
+    {
+      "name": "cage elephant",
+      "coverFile": "cage-elephant.webp"
+    },
+    {
+      "name": "calling",
+      "coverFile": "calling.webp"
+    },
+    {
+      "name": "canned heat",
+      "coverFile": "canned-heat.webp"
+    },
+    {
+      "name": "cardigans",
+      "coverFile": "cardigans.webp"
+    },
+    {
+      "name": "carolina liar",
+      "coverFile": "carolina-liar.webp"
+    },
+    {
+      "name": "cars",
+      "coverFile": "cars.webp"
+    },
+    {
+      "name": "cast",
+      "coverFile": "cast.webp"
+    },
+    {
+      "name": "catfish and bottlemen",
+      "coverFile": "catfish-and-bottlemen.webp"
+    },
+    {
+      "name": "charlatans",
+      "coverFile": "charlatans.webp"
+    },
+    {
+      "name": "cherry ghost",
+      "coverFile": "cherry-ghost.webp"
+    },
+    {
+      "name": "chris rea",
+      "coverFile": "chris-rea.webp"
+    },
+    {
+      "name": "christopher cross",
+      "coverFile": "christopher-cross.webp"
+    },
+    {
+      "name": "clash",
+      "coverFile": "clash.webp"
+    },
+    {
+      "name": "cock robin",
+      "coverFile": "cock-robin.webp"
+    },
+    {
+      "name": "colbie caillat",
+      "coverFile": "colbie-caillat.webp"
+    },
+    {
+      "name": "cold war kids",
+      "coverFile": "cold-war-kids.webp"
+    },
+    {
+      "name": "coldplay",
+      "coverFile": "coldplay.webp"
+    },
+    {
+      "name": "connells",
+      "coverFile": "connells.webp"
+    },
+    {
+      "name": "coral",
+      "coverFile": "coral.webp"
+    },
+    {
+      "name": "counting crows",
+      "coverFile": "counting-crows.webp"
+    },
+    {
+      "name": "cranberries",
+      "coverFile": "cranberries.webp"
+    },
+    {
+      "name": "crash test dummies",
+      "coverFile": "crash-test-dummies.webp"
+    },
+    {
+      "name": "crowded house",
+      "coverFile": "crowded-house.webp"
+    },
+    {
+      "name": "cure",
+      "coverFile": "cure.webp"
+    },
+    {
+      "name": "cutting crew",
+      "coverFile": "cutting-crew.webp"
+    },
+    {
+      "name": "cyndi lauper",
+      "coverFile": "cyndi-lauper.webp"
+    },
+    {
+      "name": "damien rice",
+      "coverFile": "damien-rice.webp"
+    },
+    {
+      "name": "darkness",
+      "coverFile": "darkness.webp"
+    },
+    {
+      "name": "daryl hall & john oates",
+      "coverFile": "daryl-hall-&-john-oates.webp"
+    },
+    {
+      "name": "daughtry",
+      "coverFile": "daughtry.webp"
+    },
+    {
+      "name": "dave gahan",
+      "coverFile": "dave-gahan.webp"
+    },
+    {
+      "name": "david bowie",
+      "coverFile": "david-bowie.webp"
+    },
+    {
+      "name": "david gray",
+      "coverFile": "david-gray.webp"
+    },
+    {
+      "name": "decemberists",
+      "coverFile": "decemberists.webp"
+    },
+    {
+      "name": "deep blue something",
+      "coverFile": "deep-blue-something.webp"
+    },
+    {
+      "name": "deep purple",
+      "coverFile": "deep-purple.webp"
+    },
+    {
+      "name": "depeche mode",
+      "coverFile": "depeche-mode.webp"
+    },
+    {
+      "name": "dire straits",
+      "coverFile": "dire-straits.webp"
+    },
+    {
+      "name": "divine comedy",
+      "coverFile": "divine-comedy.webp"
+    },
+    {
+      "name": "dolores o' riordan",
+      "coverFile": "dolores-o'-riordan.webp"
+    },
+    {
+      "name": "don henley",
+      "coverFile": "don-henley.webp"
+    },
+    {
+      "name": "don mclean",
+      "coverFile": "don-mclean.webp"
+    },
+    {
+      "name": "donna lewis",
+      "coverFile": "donna-lewis.webp"
+    },
+    {
+      "name": "doobie brothers",
+      "coverFile": "doobie-brothers.webp"
+    },
+    {
+      "name": "doors",
+      "coverFile": "doors.webp"
+    },
+    {
+      "name": "doves",
+      "coverFile": "doves.webp"
+    },
+    {
+      "name": "duran duran",
+      "coverFile": "duran-duran.webp"
+    },
+    {
+      "name": "dusty springfield",
+      "coverFile": "dusty-springfield.webp"
+    },
+    {
+      "name": "eagles",
+      "coverFile": "eagles.webp"
+    },
+    {
+      "name": "ed sheeran",
+      "coverFile": "ed-sheeran.webp"
+    },
+    {
+      "name": "eels",
+      "coverFile": "eels.webp"
+    },
+    {
+      "name": "elbow",
+      "coverFile": "elbow.webp"
+    },
+    {
+      "name": "elo (electric light orchestra)",
+      "coverFile": "elo-(electric-light-orchestra).webp"
+    },
+    {
+      "name": "elton john",
+      "coverFile": "elton-john.webp"
+    },
+    {
+      "name": "elvis presley",
+      "coverFile": "elvis-presley.webp"
+    },
+    {
+      "name": "embrace",
+      "coverFile": "embrace.webp"
+    },
+    {
+      "name": "emf",
+      "coverFile": "emf.webp"
+    },
+    {
+      "name": "empire of sun",
+      "coverFile": "empire-of-sun.webp"
+    },
+    {
+      "name": "enemy",
+      "coverFile": "enemy.webp"
+    },
+    {
+      "name": "eric clapton",
+      "coverFile": "eric-clapton.webp"
+    },
+    {
+      "name": "eurythmics",
+      "coverFile": "eurythmics.webp"
+    },
+    {
+      "name": "evanescense",
+      "coverFile": "evanescense.webp"
+    },
+    {
+      "name": "fairground attraction",
+      "coverFile": "fairground-attraction.webp"
+    },
+    {
+      "name": "faith no more",
+      "coverFile": "faith-no-more.webp"
+    },
+    {
+      "name": "family of year",
+      "coverFile": "family-of-year.webp"
+    },
+    {
+      "name": "feeling",
+      "coverFile": "feeling.webp"
+    },
+    {
+      "name": "fiction factory",
+      "coverFile": "fiction-factory.webp"
+    },
+    {
+      "name": "fine young cannibals",
+      "coverFile": "fine-young-cannibals.webp"
+    },
+    {
+      "name": "finger eleven",
+      "coverFile": "finger-eleven.webp"
+    },
+    {
+      "name": "fleet foxes",
+      "coverFile": "fleet-foxes.webp"
+    },
+    {
+      "name": "fleetwood mac",
+      "coverFile": "fleetwood-mac.webp"
+    },
+    {
+      "name": "florence and machine",
+      "coverFile": "florence-and-machine.webp"
+    },
+    {
+      "name": "foals",
+      "coverFile": "foals.webp"
+    },
+    {
+      "name": "foo fighters",
+      "coverFile": "foo-fighters.webp"
+    },
+    {
+      "name": "fool's garden",
+      "coverFile": "fool's-garden.webp"
+    },
+    {
+      "name": "foreigner",
+      "coverFile": "foreigner.webp"
+    },
+    {
+      "name": "foster people",
+      "coverFile": "foster-people.webp"
+    },
+    {
+      "name": "frankie goes to hollywood",
+      "coverFile": "frankie-goes-to-hollywood.webp"
+    },
+    {
+      "name": "franz ferdinand",
+      "coverFile": "franz-ferdinand.webp"
+    },
+    {
+      "name": "fratellis",
+      "coverFile": "fratellis.webp"
+    },
+    {
+      "name": "fray",
+      "coverFile": "fray.webp"
+    },
+    {
+      "name": "freddie mercury",
+      "coverFile": "freddie-mercury.webp"
+    },
+    {
+      "name": "free",
+      "coverFile": "free.webp"
+    },
+    {
+      "name": "funeral for a friend",
+      "coverFile": "funeral-for-a-friend.webp"
+    },
+    {
+      "name": "garbage",
+      "coverFile": "garbage.webp"
+    },
+    {
+      "name": "gaslight anthem",
+      "coverFile": "gaslight-anthem.webp"
+    },
+    {
+      "name": "genesis",
+      "coverFile": "genesis.webp"
+    },
+    {
+      "name": "george ezra",
+      "coverFile": "george-ezra.webp"
+    },
+    {
+      "name": "george michael",
+      "coverFile": "george-michael.webp"
+    },
+    {
+      "name": "ghost",
+      "coverFile": "ghost.webp"
+    },
+    {
+      "name": "ghosts",
+      "coverFile": "ghosts.webp"
+    },
+    {
+      "name": "glasvegas",
+      "coverFile": "glasvegas.webp"
+    },
+    {
+      "name": "gnarls barkley",
+      "coverFile": "gnarls-barkley.webp"
+    },
+    {
+      "name": "goo goo dolls",
+      "coverFile": "goo-goo-dolls.webp"
+    },
+    {
+      "name": "good charlotte",
+      "coverFile": "good-charlotte.webp"
+    },
+    {
+      "name": "gotye",
+      "coverFile": "gotye.webp"
+    },
+    {
+      "name": "green day",
+      "coverFile": "green-day.webp"
+    },
+    {
+      "name": "greta van fleet",
+      "coverFile": "greta-van-fleet.webp"
+    },
+    {
+      "name": "guns n' roses",
+      "coverFile": "guns-n'-roses.webp"
+    },
+    {
+      "name": "gwen stefani",
+      "coverFile": "gwen-stefani.webp"
+    },
+    {
+      "name": "haim",
+      "coverFile": "haim.webp"
+    },
+    {
+      "name": "hard fi",
+      "coverFile": "hard-fi.webp"
+    },
+    {
+      "name": "hockey",
+      "coverFile": "hockey.webp"
+    },
+    {
+      "name": "hoobastank",
+      "coverFile": "hoobastank.webp"
+    },
+    {
+      "name": "human league",
+      "coverFile": "human-league.webp"
+    },
+    {
+      "name": "hurts",
+      "coverFile": "hurts.webp"
+    },
+    {
+      "name": "i am kloot",
+      "coverFile": "i-am-kloot.webp"
+    },
+    {
+      "name": "ian brown",
+      "coverFile": "ian-brown.webp"
+    },
+    {
+      "name": "iggy pop",
+      "coverFile": "iggy-pop.webp"
+    },
+    {
+      "name": "imagine dragons",
+      "coverFile": "imagine-dragons.webp"
+    },
+    {
+      "name": "inxs",
+      "coverFile": "inxs.webp"
+    },
+    {
+      "name": "iron maiden",
+      "coverFile": "iron-maiden.webp"
+    },
+    {
+      "name": "jack johnson",
+      "coverFile": "jack-johnson.webp"
+    },
+    {
+      "name": "jack penate",
+      "coverFile": "jack-penate.webp"
+    },
+    {
+      "name": "jade bird",
+      "coverFile": "jade-bird.webp"
+    },
+    {
+      "name": "jake bugg",
+      "coverFile": "jake-bugg.webp"
+    },
+    {
+      "name": "jam",
+      "coverFile": "jam.webp"
+    },
+    {
+      "name": "james bay",
+      "coverFile": "james-bay.webp"
+    },
+    {
+      "name": "james morrison",
+      "coverFile": "james-morrison.webp"
+    },
+    {
+      "name": "james",
+      "coverFile": "james.webp"
+    },
+    {
+      "name": "jet",
+      "coverFile": "jet.webp"
+    },
+    {
+      "name": "jimi hendrix",
+      "coverFile": "jimi-hendrix.webp"
+    },
+    {
+      "name": "journey",
+      "coverFile": "journey.webp"
+    },
+    {
+      "name": "joy division",
+      "coverFile": "joy-division.webp"
+    },
+    {
+      "name": "judas priest",
+      "coverFile": "judas-priest.webp"
+    },
+    {
+      "name": "just jack",
+      "coverFile": "just-jack.webp"
+    },
+    {
+      "name": "kaiser chiefs",
+      "coverFile": "kaiser-chiefs.webp"
+    },
+    {
+      "name": "kansas",
+      "coverFile": "kansas.webp"
+    },
+    {
+      "name": "kasabian",
+      "coverFile": "kasabian.webp"
+    },
+    {
+      "name": "keane",
+      "coverFile": "keane.webp"
+    },
+    {
+      "name": "kenny loggins",
+      "coverFile": "kenny-loggins.webp"
+    },
+    {
+      "name": "killers",
+      "coverFile": "killers.webp"
+    },
+    {
+      "name": "kings of leon",
+      "coverFile": "kings-of-leon.webp"
+    },
+    {
+      "name": "kinks",
+      "coverFile": "kinks.webp"
+    },
+    {
+      "name": "kirsty maccoll",
+      "coverFile": "kirsty-maccoll.webp"
+    },
+    {
+      "name": "kiss",
+      "coverFile": "kiss.webp"
+    },
+    {
+      "name": "klaxons",
+      "coverFile": "klaxons.webp"
+    },
+    {
+      "name": "kooks",
+      "coverFile": "kooks.webp"
+    },
+    {
+      "name": "kt tunstall",
+      "coverFile": "kt-tunstall.webp"
+    },
+    {
+      "name": "la's",
+      "coverFile": "la's.webp"
+    },
+    {
+      "name": "lana del rey",
+      "coverFile": "lana-del-rey.webp"
+    },
+    {
+      "name": "laura branigan",
+      "coverFile": "laura-branigan.webp"
+    },
+    {
+      "name": "lenny kravitz",
+      "coverFile": "lenny-kravitz.webp"
+    },
+    {
+      "name": "libertines",
+      "coverFile": "libertines.webp"
+    },
+    {
+      "name": "lightning seeds",
+      "coverFile": "lightning-seeds.webp"
+    },
+    {
+      "name": "lily allen",
+      "coverFile": "lily-allen.webp"
+    },
+    {
+      "name": "linkin park",
+      "coverFile": "linkin-park.webp"
+    },
+    {
+      "name": "liquido",
+      "coverFile": "liquido.webp"
+    },
+    {
+      "name": "lissie",
+      "coverFile": "lissie.webp"
+    },
+    {
+      "name": "lostprophets",
+      "coverFile": "lostprophets.webp"
+    },
+    {
+      "name": "lou reed",
+      "coverFile": "lou-reed.webp"
+    },
+    {
+      "name": "lynyrd skynyrd",
+      "coverFile": "lynyrd-skynyrd.webp"
+    },
+    {
+      "name": "maccabees",
+      "coverFile": "maccabees.webp"
+    },
+    {
+      "name": "madness",
+      "coverFile": "madness.webp"
+    },
+    {
+      "name": "magic numbers",
+      "coverFile": "magic-numbers.webp"
+    },
+    {
+      "name": "mamas and papas",
+      "coverFile": "mamas-and-papas.webp"
+    },
+    {
+      "name": "manfred mann",
+      "coverFile": "manfred-mann.webp"
+    },
+    {
+      "name": "manic street preachers",
+      "coverFile": "manic-street-preachers.webp"
+    },
+    {
+      "name": "marc cohn",
+      "coverFile": "marc-cohn.webp"
+    },
+    {
+      "name": "mark ronson",
+      "coverFile": "mark-ronson.webp"
+    },
+    {
+      "name": "marmaduke duke",
+      "coverFile": "marmaduke-duke.webp"
+    },
+    {
+      "name": "maroon5",
+      "coverFile": "maroon5.webp"
+    },
+    {
+      "name": "martha reeves & vandellas",
+      "coverFile": "martha-reeves-&-vandellas.webp"
+    },
+    {
+      "name": "marvin gaye",
+      "coverFile": "marvin-gaye.webp"
+    },
+    {
+      "name": "meat loaf",
+      "coverFile": "meat-loaf.webp"
+    },
+    {
+      "name": "mgmt",
+      "coverFile": "mgmt.webp"
+    },
+    {
+      "name": "midnight",
+      "coverFile": "midnight.webp"
+    },
+    {
+      "name": "mika",
+      "coverFile": "mika.webp"
+    },
+    {
+      "name": "mike + mechanics",
+      "coverFile": "mike-+-mechanics.webp"
+    },
+    {
+      "name": "moby",
+      "coverFile": "moby.webp"
+    },
+    {
+      "name": "morrissey",
+      "coverFile": "morrissey.webp"
+    },
+    {
+      "name": "mr. big",
+      "coverFile": "mr.-big.webp"
+    },
+    {
+      "name": "mr. mister",
+      "coverFile": "mr.-mister.webp"
+    },
+    {
+      "name": "mumford & sons",
+      "coverFile": "mumford-&-sons.webp"
+    },
+    {
+      "name": "mumm ra",
+      "coverFile": "mumm-ra.webp"
+    },
+    {
+      "name": "muse",
+      "coverFile": "muse.webp"
+    },
+    {
+      "name": "mystery jets",
+      "coverFile": "mystery-jets.webp"
+    },
+    {
+      "name": "nazareth",
+      "coverFile": "nazareth.webp"
+    },
+    {
+      "name": "neon trees",
+      "coverFile": "neon-trees.webp"
+    },
+    {
+      "name": "new radicals",
+      "coverFile": "new-radicals.webp"
+    },
+    {
+      "name": "newton faulkner",
+      "coverFile": "newton-faulkner.webp"
+    },
+    {
+      "name": "nickelback",
+      "coverFile": "nickelback.webp"
+    },
+    {
+      "name": "nirvana",
+      "coverFile": "nirvana.webp"
+    },
+    {
+      "name": "no doubt",
+      "coverFile": "no-doubt.webp"
+    },
+    {
+      "name": "noah and whale",
+      "coverFile": "noah-and-whale.webp"
+    },
+    {
+      "name": "oasis",
+      "coverFile": "oasis.webp"
+    },
+    {
+      "name": "of monsters and men",
+      "coverFile": "of-monsters-and-men.webp"
+    },
+    {
+      "name": "one night only",
+      "coverFile": "one-night-only.webp"
+    },
+    {
+      "name": "onerepublic",
+      "coverFile": "onerepublic.webp"
+    },
+    {
+      "name": "orchestral manoeuvres in dark",
+      "coverFile": "orchestral-manoeuvres-in-dark.webp"
+    },
+    {
+      "name": "ordinary boys",
+      "coverFile": "ordinary-boys.webp"
+    },
+    {
+      "name": "orson",
+      "coverFile": "orson.webp"
+    },
+    {
+      "name": "ozzy osbourne",
+      "coverFile": "ozzy-osbourne.webp"
+    },
+    {
+      "name": "panic! at disco",
+      "coverFile": "panic!-at-disco.webp"
+    },
+    {
+      "name": "pat benatar",
+      "coverFile": "pat-benatar.webp"
+    },
+    {
+      "name": "patti smith group",
+      "coverFile": "patti-smith-group.webp"
+    },
+    {
+      "name": "paul mccartney",
+      "coverFile": "paul-mccartney.webp"
+    },
+    {
+      "name": "paul young",
+      "coverFile": "paul-young.webp"
+    },
+    {
+      "name": "pet shop boys",
+      "coverFile": "pet-shop-boys.webp"
+    },
+    {
+      "name": "peter bjorn and john",
+      "coverFile": "peter-bjorn-and-john.webp"
+    },
+    {
+      "name": "peter gabriel",
+      "coverFile": "peter-gabriel.webp"
+    },
+    {
+      "name": "petula clark",
+      "coverFile": "petula-clark.webp"
+    },
+    {
+      "name": "phoenix",
+      "coverFile": "phoenix.webp"
+    },
+    {
+      "name": "pierces",
+      "coverFile": "pierces.webp"
+    },
+    {
+      "name": "pigeon detectives",
+      "coverFile": "pigeon-detectives.webp"
+    },
+    {
+      "name": "pink floyd",
+      "coverFile": "pink-floyd.webp"
+    },
+    {
+      "name": "pink",
+      "coverFile": "pink.webp"
+    },
+    {
+      "name": "placebo",
+      "coverFile": "placebo.webp"
+    },
+    {
+      "name": "plain white t's",
+      "coverFile": "plain-white-t's.webp"
+    },
+    {
+      "name": "poison",
+      "coverFile": "poison.webp"
+    },
+    {
+      "name": "police",
+      "coverFile": "police.webp"
+    },
+    {
+      "name": "portugal. man",
+      "coverFile": "portugal.-man.webp"
+    },
+    {
+      "name": "pretenders",
+      "coverFile": "pretenders.webp"
+    },
+    {
+      "name": "primal scream",
+      "coverFile": "primal-scream.webp"
+    },
+    {
+      "name": "procol harum",
+      "coverFile": "procol-harum.webp"
+    },
+    {
+      "name": "psychedelic furs",
+      "coverFile": "psychedelic-furs.webp"
+    },
+    {
+      "name": "pulp",
+      "coverFile": "pulp.webp"
+    },
+    {
+      "name": "queen",
+      "coverFile": "queen.webp"
+    },
+    {
+      "name": "r.e.m.",
+      "coverFile": "r.e.m..webp"
+    },
+    {
+      "name": "radiohead",
+      "coverFile": "radiohead.webp"
+    },
+    {
+      "name": "rainbow",
+      "coverFile": "rainbow.webp"
+    },
+    {
+      "name": "razorlight",
+      "coverFile": "razorlight.webp"
+    },
+    {
+      "name": "real thing",
+      "coverFile": "real-thing.webp"
+    },
+    {
+      "name": "reamonn",
+      "coverFile": "reamonn.webp"
+    },
+    {
+      "name": "red hot chili peppers",
+      "coverFile": "red-hot-chili-peppers.webp"
+    },
+    {
+      "name": "republica",
+      "coverFile": "republica.webp"
+    },
+    {
+      "name": "richard ashcroft",
+      "coverFile": "richard-ashcroft.webp"
+    },
+    {
+      "name": "richard marx",
+      "coverFile": "richard-marx.webp"
+    },
+    {
+      "name": "robbie williams",
+      "coverFile": "robbie-williams.webp"
+    },
+    {
+      "name": "robert plant",
+      "coverFile": "robert-plant.webp"
+    },
+    {
+      "name": "rod stewart",
+      "coverFile": "rod-stewart.webp"
+    },
+    {
+      "name": "rogue wave",
+      "coverFile": "rogue-wave.webp"
+    },
+    {
+      "name": "rolling stones",
+      "coverFile": "rolling-stones.webp"
+    },
+    {
+      "name": "rooney",
+      "coverFile": "rooney.webp"
+    },
+    {
+      "name": "roxette",
+      "coverFile": "roxette.webp"
+    },
+    {
+      "name": "roxy music",
+      "coverFile": "roxy-music.webp"
+    },
+    {
+      "name": "ryan adams",
+      "coverFile": "ryan-adams.webp"
+    },
+    {
+      "name": "sam fender",
+      "coverFile": "sam-fender.webp"
+    },
+    {
+      "name": "santana",
+      "coverFile": "santana.webp"
+    },
+    {
+      "name": "sara bareilles",
+      "coverFile": "sara-bareilles.webp"
+    },
+    {
+      "name": "scissor sisters",
+      "coverFile": "scissor-sisters.webp"
+    },
+    {
+      "name": "scorpions",
+      "coverFile": "scorpions.webp"
+    },
+    {
+      "name": "scott mckenzie",
+      "coverFile": "scott-mckenzie.webp"
+    },
+    {
+      "name": "scouting for girls",
+      "coverFile": "scouting-for-girls.webp"
+    },
+    {
+      "name": "script",
+      "coverFile": "script.webp"
+    },
+    {
+      "name": "seal",
+      "coverFile": "seal.webp"
+    },
+    {
+      "name": "semisonic",
+      "coverFile": "semisonic.webp"
+    },
+    {
+      "name": "shannon noll",
+      "coverFile": "shannon-noll.webp"
+    },
+    {
+      "name": "sheryl crow",
+      "coverFile": "sheryl-crow.webp"
+    },
+    {
+      "name": "shinedown",
+      "coverFile": "shinedown.webp"
+    },
+    {
+      "name": "sick puppies",
+      "coverFile": "sick-puppies.webp"
+    },
+    {
+      "name": "silverchair",
+      "coverFile": "silverchair.webp"
+    },
+    {
+      "name": "simple minds",
+      "coverFile": "simple-minds.webp"
+    },
+    {
+      "name": "simply red",
+      "coverFile": "simply-red.webp"
+    },
+    {
+      "name": "skunk anansie",
+      "coverFile": "skunk-anansie.webp"
+    },
+    {
+      "name": "small faces",
+      "coverFile": "small-faces.webp"
+    },
+    {
+      "name": "smashing pumpkins",
+      "coverFile": "smashing-pumpkins.webp"
+    },
+    {
+      "name": "smiths",
+      "coverFile": "smiths.webp"
+    },
+    {
+      "name": "snow patrol",
+      "coverFile": "snow-patrol.webp"
+    },
+    {
+      "name": "sophie b. hawkins",
+      "coverFile": "sophie-b.-hawkins.webp"
+    },
+    {
+      "name": "soundgarden",
+      "coverFile": "soundgarden.webp"
+    },
+    {
+      "name": "spencer davis group",
+      "coverFile": "spencer-davis-group.webp"
+    },
+    {
+      "name": "spin doctors",
+      "coverFile": "spin-doctors.webp"
+    },
+    {
+      "name": "starsailor",
+      "coverFile": "starsailor.webp"
+    },
+    {
+      "name": "starship",
+      "coverFile": "starship.webp"
+    },
+    {
+      "name": "steely dan",
+      "coverFile": "steely-dan.webp"
+    },
+    {
+      "name": "stereophonics",
+      "coverFile": "stereophonics.webp"
+    },
+    {
+      "name": "steve miller",
+      "coverFile": "steve-miller.webp"
+    },
+    {
+      "name": "sting",
+      "coverFile": "sting.webp"
+    },
+    {
+      "name": "stone roses",
+      "coverFile": "stone-roses.webp"
+    },
+    {
+      "name": "stranglers",
+      "coverFile": "stranglers.webp"
+    },
+    {
+      "name": "strokes",
+      "coverFile": "strokes.webp"
+    },
+    {
+      "name": "strumbellas",
+      "coverFile": "strumbellas.webp"
+    },
+    {
+      "name": "suede",
+      "coverFile": "suede.webp"
+    },
+    {
+      "name": "supergrass",
+      "coverFile": "supergrass.webp"
+    },
+    {
+      "name": "supertramp",
+      "coverFile": "supertramp.webp"
+    },
+    {
+      "name": "survivor",
+      "coverFile": "survivor.webp"
+    },
+    {
+      "name": "take that",
+      "coverFile": "take-that.webp"
+    },
+    {
+      "name": "talk talk",
+      "coverFile": "talk-talk.webp"
+    },
+    {
+      "name": "talking heads",
+      "coverFile": "talking-heads.webp"
+    },
+    {
+      "name": "tears for fears",
+      "coverFile": "tears-for-fears.webp"
+    },
+    {
+      "name": "temper trap",
+      "coverFile": "temper-trap.webp"
+    },
+    {
+      "name": "temptations",
+      "coverFile": "temptations.webp"
+    },
+    {
+      "name": "thirteen senses",
+      "coverFile": "thirteen-senses.webp"
+    },
+    {
+      "name": "tina turner",
+      "coverFile": "tina-turner.webp"
+    },
+    {
+      "name": "tom petty & heartbreakers",
+      "coverFile": "tom-petty-&-heartbreakers.webp"
+    },
+    {
+      "name": "toploader",
+      "coverFile": "toploader.webp"
+    },
+    {
+      "name": "tracy chapman",
+      "coverFile": "tracy-chapman.webp"
+    },
+    {
+      "name": "train",
+      "coverFile": "train.webp"
+    },
+    {
+      "name": "travis",
+      "coverFile": "travis.webp"
+    },
+    {
+      "name": "turtles",
+      "coverFile": "turtles.webp"
+    },
+    {
+      "name": "twang",
+      "coverFile": "twang.webp"
+    },
+    {
+      "name": "two door cinema club",
+      "coverFile": "two-door-cinema-club.webp"
+    },
+    {
+      "name": "u2",
+      "coverFile": "u2.webp"
+    },
+    {
+      "name": "uriah heep",
+      "coverFile": "uriah-heep.webp"
+    },
+    {
+      "name": "vaccines",
+      "coverFile": "vaccines.webp"
+    },
+    {
+      "name": "vampire weekend",
+      "coverFile": "vampire-weekend.webp"
+    },
+    {
+      "name": "van morrison",
+      "coverFile": "van-morrison.webp"
+    },
+    {
+      "name": "vance joy",
+      "coverFile": "vance-joy.webp"
+    },
+    {
+      "name": "verve",
+      "coverFile": "verve.webp"
+    },
+    {
+      "name": "view",
+      "coverFile": "view.webp"
+    },
+    {
+      "name": "visage",
+      "coverFile": "visage.webp"
+    },
+    {
+      "name": "white lies",
+      "coverFile": "white-lies.webp"
+    },
+    {
+      "name": "whitesnake",
+      "coverFile": "whitesnake.webp"
+    },
+    {
+      "name": "who",
+      "coverFile": "who.webp"
+    },
+    {
+      "name": "wings",
+      "coverFile": "wings.webp"
+    },
+    {
+      "name": "wolf alice",
+      "coverFile": "wolf-alice.webp"
+    },
+    {
+      "name": "wombats",
+      "coverFile": "wombats.webp"
+    },
+    {
+      "name": "xx",
+      "coverFile": "xx.webp"
+    },
+    {
+      "name": "yes",
+      "coverFile": "yes.webp"
+    },
+    {
+      "name": "young knives",
+      "coverFile": "young-knives.webp"
+    },
+    {
+      "name": "youth group",
+      "coverFile": "youth-group.webp"
+    },
+    {
+      "name": "zutons",
+      "coverFile": "zutons.webp"
+    },
+    {
+      "name": "zz top",
+      "coverFile": "zz-top.webp"
+    }
+  ]
+}
