@@ -1,5 +1,3 @@
-Made by NikitaY (C) 01-Sep-2024, nikitay.com
-
 # **SONIC API - Album Cover Service**
 
 Welcome to **SONIC API**, a simple and efficient API service that returns an album cover image for a given artist. This service normalizes the artist's name, removes unnecessary words like "the", and fetches the album cover based on a predefined mapping of artist names to cover images.
@@ -62,6 +60,24 @@ Response:
 ```
 GET http://localhost:3000/api/album-cover?artist=The%20Beatles
 ```
+### API Request in Production (with x-api-key):
+```
+curl -H "x-api-key: your-api-key-here" "https://your-production-url/api/album-cover?artist=The%20Beatles"
+```
+
+### Using Fetch in JavaScript:
+```
+fetch('https://your-production-url/api/album-cover?artist=The%20Beatles', {
+  method: 'GET',
+  headers: {
+    'x-api-key': 'your-api-key-here'
+  }
+})
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error('Error:', error));
+```
+
 ### Response:
 - If The Beatles exists in the JSON file, returns the album cover as a .webp image.
 - If The Beatles does not exist in the JSON file, returns the default "not found" image.
